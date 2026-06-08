@@ -292,6 +292,5 @@ Start services in the following order:
 
 Sarvesh Yeutkar
 
-M.Tech Computer Science & Information Security
-
+M.Tech CSE (Information Security)  
 College of Engineering Pune (COEP)
