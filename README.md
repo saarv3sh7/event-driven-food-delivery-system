@@ -238,7 +238,7 @@ http://localhost:8085/swagger-ui/index.html
 ## Clone Repository
 
 ```bash
-git clone [https://github.com/<username>/event-driven-food-delivery-system.git](https://github.com/saarv3sh7/event-driven-food-delivery-system.git)
+git clone https://github.com/saarv3sh7/event-driven-food-delivery-system.git
 ```
 
 ## Start PostgreSQL
